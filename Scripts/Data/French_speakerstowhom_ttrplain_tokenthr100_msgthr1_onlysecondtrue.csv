@@ -1,0 +1,275 @@
+speaker	lang	ltype	ave_ttr	se	nmessages	to_whom
+Paulfromitaly	Italian	L1	0.665	0.07729812416870152	4.0	to_L1
+Paulfromitaly	Italian	L1	0.665	0.15499999999999994	2.0	to_L2
+Angel.Aura	Italian	L1	0.75	0.0	1.0	to_L1
+Angel.Aura	Italian	L1	0.785	0.015000000000000012	2.0	to_L2
+francisgranada	Hungarian	L2	0.7866666666666666	0.027162065049951147	6.0	to_L1
+francisgranada	Hungarian	L2	0.7233333333333333	0.024037008503093284	3.0	to_L2
+Passante	italian	L1	0.74	0.10999999999999997	2.0	to_L1
+Passante	italian	L1	0.755	0.04500000000000005	2.0	to_L2
+bearded	Italian	L2	0.7406666666666667	0.0213912903207661	15.0	to_L1
+bearded	Italian	L2	0.7491666666666666	0.008118610456771057	24.0	to_L2
+TheCrociato91	Italian - Northern Italy	L1	0.765	0.035000000000000024	2.0	to_L1
+TheCrociato91	Italian - Northern Italy	L1	0.75	0.06000000000000002	3.0	to_L2
+Necsus	Italian (Italy)	L2	0.7686206896551725	0.01024002744390751	29.0	to_L1
+Necsus	Italian (Italy)	L2	0.7555172413793103	0.012182784903464264	29.0	to_L2
+giginho	Italiano & Piemontese	L1	0.765	0.015000000000000012	2.0	to_L1
+giginho	Italiano & Piemontese	L1	0.6566666666666666	0.01626174789020063	6.0	to_L2
+ohbice	italiano	L1	0.7625000000000001	0.016007810593582136	4.0	to_L1
+ohbice	italiano	L1	0.7024999999999999	0.02085237225285	8.0	to_L2
+xeneize	Italian	L2	0.78	0.0	1.0	to_L1
+xeneize	Italian	L2	0.7350000000000001	0.06499999999999999	2.0	to_L2
+sabrinita85	Italian	L1	0.7666666666666666	0.04371625682867999	3.0	to_L1
+sabrinita85	Italian	L1	0.7125000000000001	0.03145764348029479	4.0	to_L2
+SunDraw	Veneto (Italia)	L1	0.7785714285714286	0.017103128567683784	7.0	to_L1
+SunDraw	Veneto (Italia)	L1	0.758	0.021540659228538036	5.0	to_L2
+zipp404	Bilingual English|Español	L2	0.72	0.030158312444893354	7.0	to_L1
+zipp404	Bilingual English|Español	L2	0.6849999999999999	0.020374245755607492	14.0	to_L2
+MünchnerFax	Italian, Italy	L1	0.7233333333333333	0.08337332373793858	6.0	to_L1
+MünchnerFax	Italian, Italy	L1	0.776	0.026570660511172836	5.0	to_L2
+stella_maris_74	Italian - Italy	L1	0.7544444444444445	0.021220476949760314	9.0	to_L1
+stella_maris_74	Italian - Italy	L1	0.7975	0.016520189667999157	4.0	to_L2
+vega3131	Italian	L1	0.72	0.0	1.0	to_L1
+vega3131	Italian	L1	0.65	0.0	1.0	to_L2
+annapo	Italian	L1	0.635	0.06499999999999999	2.0	to_L1
+annapo	Italian	L1	0.795	0.015000000000000012	2.0	to_L2
+Giorgino	Italian	L1	0.835	0.024999999999999963	2.0	to_L1
+Giorgino	Italian	L1	0.7	0.0	1.0	to_L2
+moodywop	Italian - Italy	L1	0.765	0.0050000000000000044	2.0	to_L1
+moodywop	Italian - Italy	L1	0.675	0.044999999999999984	2.0	to_L2
+Saoul	Italian	L1	0.7466666666666667	0.016666666666666684	3.0	to_L1
+Saoul	Italian	L1	0.6980000000000001	0.013928388277184112	5.0	to_L2
+dragonseven	italiano	L1	0.7314285714285713	0.01624640200879237	7.0	to_L1
+dragonseven	italiano	L1	0.7345454545454545	0.023754947288115728	11.0	to_L2
+infinite sadness	italiano	L1	0.64	0.0	1.0	to_L1
+infinite sadness	italiano	L1	0.64	0.010000000000000009	2.0	to_L2
+olaszinho	Central Italian	L2	0.84	0.0	1.0	to_L1
+olaszinho	Central Italian	L2	0.75	0.0	1.0	to_L2
+Stiannu	Italy, Italian	L2	0.82	0.0	1.0	to_L1
+Stiannu	Italy, Italian	L2	0.73	0.010000000000000009	2.0	to_L2
+la italianilla	Italia	L1	0.78375	0.02705401343344722	8.0	to_L1
+la italianilla	Italia	L1	0.72	0.010000000000000009	2.0	to_L2
+panzona	Italian	L1	0.73	0.0	1.0	to_L1
+panzona	Italian	L1	0.76	0.04795831523312719	4.0	to_L2
+Anja.Ann	Italian	L1	0.77	0.0	2.0	to_L1
+Anja.Ann	Italian	L1	0.7622222222222224	0.019563129846287792	9.0	to_L2
+Nino83	Italian	L2	0.6375	0.020564937798755106	4.0	to_L1
+Nino83	Italian	L2	0.5750000000000001	0.03972824352187413	6.0	to_L2
+Sempervirens	italiano	L1	0.71	0.01527525231651948	3.0	to_L1
+Sempervirens	italiano	L1	0.76	0.015735915849388864	7.0	to_L2
+Palmiro Premoli	Italiano	L1	0.68	0.0	1.0	to_L1
+Palmiro Premoli	Italiano	L1	0.8	0.0	1.0	to_L2
+tie-break	Italy	L2	0.7450000000000001	0.06499999999999999	2.0	to_L1
+tie-break	Italy	L2	0.755	0.08499999999999996	2.0	to_L2
+facciadipietra	Italian (northern, southern and central background)	L1	0.78	0.0	1.0	to_L1
+facciadipietra	Italian (northern, southern and central background)	L1	0.7966666666666667	0.029627314724385297	3.0	to_L2
+VogaVenessian	Italiano	L1	0.815	0.011902380714238067	4.0	to_L1
+VogaVenessian	Italiano	L1	0.7250000000000001	0.029580398915498084	4.0	to_L2
+Connie Eyeland	Italiano	L1	0.75125	0.014446638264414906	8.0	to_L1
+Connie Eyeland	Italiano	L1	0.73625	0.014968717379922704	16.0	to_L2
+rocamadour	Italian	L2	0.7949999999999999	0.075	2.0	to_L1
+rocamadour	Italian	L2	0.67	0.0	1.0	to_L2
+Hermocrates	Italian & British English (bilingual)	L1	0.7733333333333334	0.017638342073763955	3.0	to_L1
+Hermocrates	Italian & British English (bilingual)	L1	0.75	0.020248456731316603	5.0	to_L2
+matoupaschat	Français (Belgique)	L1	0.77	0.0	1.0	to_L1
+matoupaschat	Français (Belgique)	L1	0.7928571428571429	0.016141382149217415	7.0	to_L2
+saltapicchio	Italia (Roma) - Italiano	L1	0.7400000000000001	0.03605551275463989	3.0	to_L1
+saltapicchio	Italia (Roma) - Italiano	L1	0.6366666666666666	0.11333333333333336	3.0	to_L2
+rainbowizard	Italian - Italy	L1	0.845	0.0050000000000000044	2.0	to_L1
+rainbowizard	Italian - Italy	L1	0.7075	0.025617376914899	4.0	to_L2
+ursu-lab	italian, catalan & spanish	L1	0.7566666666666667	0.013333333333333346	3.0	to_L1
+ursu-lab	italian, catalan & spanish	L1	0.7509090909090909	0.015693342274210972	11.0	to_L2
+itka	français	L1	0.6675	0.050228643886398784	4.0	to_L1
+itka	français	L1	0.6841463414634147	0.014193676064154708	41.0	to_L2
+daniele712	Italia	L1	0.74	0.040000000000000036	2.0	to_L1
+daniele712	Italia	L1	0.8	0.0	1.0	to_L2
+Kraus	Italian, Italy	L2	0.81	0.0	1.0	to_L1
+Kraus	Italian, Italy	L2	0.78	0.0	1.0	to_L2
+frugnaglio	Italian	L2	0.7	0.019999999999999962	2.0	to_L1
+frugnaglio	Italian	L2	0.8	0.0	1.0	to_L2
+violadaprile	italian	L1	0.7575000000000001	0.020564937798755126	4.0	to_L1
+violadaprile	italian	L1	0.705	0.030956959368344517	6.0	to_L2
+giusyna	italian	L1	0.74	0.030000000000000023	2.0	to_L1
+giusyna	italian	L1	0.72	0.030000000000000023	2.0	to_L2
+Astropolyp	Italian - Tuscany	L1	0.6875	0.05281650625830274	4.0	to_L1
+Astropolyp	Italian - Tuscany	L1	0.83	0.0	1.0	to_L2
+dôghen	italiano	L1	0.8049999999999999	0.024999999999999963	2.0	to_L1
+dôghen	italiano	L1	0.7625	0.061829739338498495	4.0	to_L2
+quasi.stellar	italiano - italiano	L1	0.64	0.0	1.0	to_L1
+quasi.stellar	italiano - italiano	L1	0.72	0.010000000000000009	2.0	to_L2
+Silvia10975	italiano (Toscana-Italia)	L1	0.72	0.0	1.0	to_L1
+Silvia10975	italiano (Toscana-Italia)	L1	0.8	0.0	1.0	to_L2
+niklavjus	Italiano (Italia)	L1	0.77	0.0	1.0	to_L1
+niklavjus	Italiano (Italia)	L1	0.58	0.0	1.0	to_L2
+Pugnator	Neapoilitan (Naples) / Italian (Italy)	L1	0.71	0.0	1.0	to_L1
+Pugnator	Neapoilitan (Naples) / Italian (Italy)	L1	0.85	0.0	2.0	to_L2
+chipulukusu	Italian	L1	0.7125	0.02868652413009751	4.0	to_L1
+chipulukusu	Italian	L1	0.6980000000000001	0.018275666882497054	5.0	to_L2
+pantarhei	Italiano	L1	0.83	0.0	1.0	to_L1
+pantarhei	Italiano	L1	0.67	0.0	1.0	to_L2
+winnie	italy, italian	L1	0.74	0.0	1.0	to_L1
+winnie	italy, italian	L1	0.78	0.06	2.0	to_L2
+Sprocedato	Italian - Rome	L2	0.77	0.0	1.0	to_L1
+Sprocedato	Italian - Rome	L2	0.79	0.0	1.0	to_L2
+Huginn	Italian	L1	0.9	0.0	1.0	to_L1
+Huginn	Italian	L1	0.72	0.0	1.0	to_L2
+oirelav	italian	L1	0.76	0.0	1.0	to_L1
+oirelav	italian	L1	0.77	0.0	1.0	to_L2
+otherwise	Italiano - Italia	L1	0.86	0.0	1.0	to_L1
+otherwise	Italiano - Italia	L1	0.61	0.05033222956847166	3.0	to_L2
+pollonia	Italiano	L1	0.84	0.0	1.0	to_L1
+pollonia	Italiano	L1	0.69	0.0	1.0	to_L2
+Corsicum	Corsu in casa è u Francese à scola	L1	0.7375	0.03816084380618436	4.0	to_L1
+Corsicum	Corsu in casa è u Francese à scola	L1	0.7054545454545456	0.021840897266102183	11.0	to_L2
+Pinairun	Castellano	L2	0.78	0.0	1.0	to_L1
+Pinairun	Castellano	L2	0.83	0.0	1.0	to_L2
+Aoyama	français Clodoaldien	L1	0.71	0.14	2.0	to_L1
+Aoyama	français Clodoaldien	L1	0.6966666666666667	0.026034165586355507	3.0	to_L2
+snarkhunter	French - France	L1	0.7718181818181816	0.01110431380698362	11.0	to_L1
+snarkhunter	French - France	L1	0.7572222222222221	0.005274080444852068	90.0	to_L2
+OLN	French - France,  ♀	L1	0.67	0.022401298663653004	11.0	to_L1
+OLN	French - France,  ♀	L1	0.6824324324324325	0.009449510820698224	74.0	to_L2
+Nanon	français (France)	L1	0.745	0.015000000000000012	2.0	to_L1
+Nanon	français (France)	L1	0.745	0.01180193688704165	14.0	to_L2
+Maître Capello	French – Switzerland	L1	0.6829166666666667	0.01772862222209385	24.0	to_L1
+Maître Capello	French – Switzerland	L1	0.6203636363636365	0.015079952210722877	55.0	to_L2
+nicduf	français	L1	0.675	0.024999999999999963	2.0	to_L1
+nicduf	français	L1	0.6892307692307694	0.023978129416935466	13.0	to_L2
+Thomas1	polszczyzna warszawska	L2	0.79	0.0	1.0	to_L1
+Thomas1	polszczyzna warszawska	L2	0.65	0.0	1.0	to_L2
+DearPrudence	French (lower Normandy)	L1	0.8300000000000001	0.01999999999999998	3.0	to_L1
+DearPrudence	French (lower Normandy)	L1	0.716923076923077	0.019127930155444377	13.0	to_L2
+Piotr Ivanovitch	France	L1	0.7533333333333333	0.006666666666666672	3.0	to_L1
+Piotr Ivanovitch	France	L1	0.7200000000000001	0.01020949905567075	32.0	to_L2
+Yendred	Français - France	L1	0.58	0.0	1.0	to_L1
+Yendred	Français - France	L1	0.6826923076923077	0.018174857462631786	26.0	to_L2
+SergueiL	Français	L1	0.7216666666666667	0.011948965552623278	6.0	to_L1
+SergueiL	Français	L1	0.7266101694915256	0.01098484735399196	59.0	to_L2
+Bezoard	French - France	L1	0.735	0.035000000000000024	2.0	to_L1
+Bezoard	French - France	L1	0.6375000000000001	0.04479118216792229	4.0	to_L2
+Chimel	Français	L1	0.7445454545454545	0.013098482657693006	11.0	to_L1
+Chimel	Français	L1	0.7440000000000004	0.007388224318864351	55.0	to_L2
+Gérard Napalinex	French - France	L1	0.66	0.0	1.0	to_L1
+Gérard Napalinex	French - France	L1	0.77	0.0	1.0	to_L2
+J.F. de TROYES	francais-France	L1	0.7399999999999999	0.023094010767585053	3.0	to_L1
+J.F. de TROYES	francais-France	L1	0.7257894736842104	0.01693323299931741	19.0	to_L2
+Calamitintin	France, St Maix les bains, 79	L1	0.74	0.0	1.0	to_L1
+Calamitintin	France, St Maix les bains, 79	L1	0.67	0.0608276253029822	5.0	to_L2
+Lacuzon	French - France	L1	0.6575000000000001	0.04210601698886592	4.0	to_L1
+Lacuzon	French - France	L1	0.656896551724138	0.01357431151377014	29.0	to_L2
+tilt	French French	L1	0.71625	0.02309175538296443	16.0	to_L1
+tilt	French French	L1	0.7330952380952381	0.009821212998725227	42.0	to_L2
+CapnPrep	AmE	L2	0.8016666666666666	0.015147423690002342	6.0	to_L1
+CapnPrep	AmE	L2	0.7575	0.026575364531836624	4.0	to_L2
+CABEZOTA	french	L1	0.7733333333333334	0.014529663145135593	3.0	to_L1
+CABEZOTA	french	L1	0.7266666666666666	0.02800793538346668	6.0	to_L2
+olivier68	French Paris France	L1	0.78	0.0	1.0	to_L1
+olivier68	French Paris France	L1	0.71	0.0	1.0	to_L2
+volo	français	L1	0.7233333333333333	0.03282952600598701	3.0	to_L1
+volo	français	L1	0.730566037735849	0.008252259638384205	53.0	to_L2
+k@t	Français de France	L1	0.75	0.0	1.0	to_L1
+k@t	Français de France	L1	0.6843478260869564	0.01853131189463322	23.0	to_L2
+plantin	français	L1	0.7125000000000001	0.06169481339626533	4.0	to_L1
+plantin	français	L1	0.7371698113207545	0.01000862240205082	53.0	to_L2
+Punky Zoé	France - français	L1	0.7300000000000001	0.02070719388975432	12.0	to_L1
+Punky Zoé	France - français	L1	0.7339344262295083	0.008020733680395799	61.0	to_L2
+Stefan Ivanovich	French	L1	0.69	0.0	1.0	to_L1
+Stefan Ivanovich	French	L1	0.56	0.06782329983125268	4.0	to_L2
+Anne345	France	L1	0.722857142857143	0.034895373258211924	7.0	to_L1
+Anne345	France	L1	0.725	0.014317821063276366	6.0	to_L2
+Gwynplaine	French	L1	0.66	0.0	1.0	to_L1
+Gwynplaine	French	L1	0.705	0.025980762113533167	4.0	to_L2
+Donaldos	French - France	L1	0.74	0.018973665961010293	5.0	to_L1
+Donaldos	French - France	L1	0.7362500000000001	0.01726931286029258	16.0	to_L2
+Frenchrescue	French	L1	0.67	0.0	1.0	to_L1
+Frenchrescue	French	L1	0.61	0.040000000000000036	2.0	to_L2
+Xence	Algeria (Arabic - French)	L1	0.73	0.0	1.0	to_L1
+Xence	Algeria (Arabic - French)	L1	0.7358333333333333	0.011899728373098916	12.0	to_L2
+geostan	English Canada	L2	0.675	0.044999999999999984	2.0	to_L1
+geostan	English Canada	L2	0.76	0.06	2.0	to_L2
+Asmodée	Français	L1	0.72	0.0	1.0	to_L1
+Asmodée	Français	L1	0.726	0.02942787793912432	5.0	to_L2
+quinoa	french	L1	0.67	0.005773502691896263	3.0	to_L1
+quinoa	french	L1	0.6666666666666666	0.023430533476425555	12.0	to_L2
+Comtois	Français	L1	0.7	0.0	1.0	to_L1
+Comtois	Français	L1	0.7204761904761906	0.015313800039680836	21.0	to_L2
+Logospreference-1	français	L1	0.7171428571428571	0.022647851334464987	7.0	to_L1
+Logospreference-1	français	L1	0.6945985401459857	0.006102226503245362	137.0	to_L2
+Roméo31	français - France	L1	0.75	0.025884358211089573	5.0	to_L1
+Roméo31	français - France	L1	0.7278787878787878	0.012856710131625114	33.0	to_L2
+geve	France, French	L1	0.7666666666666666	0.029627314724385324	3.0	to_L1
+geve	France, French	L1	0.711	0.021982316125063406	10.0	to_L2
+LV4-26	France French	L1	0.51	0.010000000000000009	2.0	to_L1
+LV4-26	France French	L1	0.731	0.012921958500717024	30.0	to_L2
+Nicomon	Français, Québec ♀	L1	0.7075	0.040491768710854484	4.0	to_L1
+Nicomon	Français, Québec ♀	L1	0.7425	0.028686524130097535	4.0	to_L2
+IlEnAppert	Allemand	L2	0.59	0.0	1.0	to_L1
+IlEnAppert	Allemand	L2	0.715	0.025000000000000022	2.0	to_L2
+Marie3933	français	L1	0.7366666666666667	0.006666666666666672	3.0	to_L1
+Marie3933	français	L1	0.6612499999999999	0.029181543824821875	8.0	to_L2
+CARNESECCHI	French / France	L1	0.64	0.0	1.0	to_L1
+CARNESECCHI	French / France	L1	0.5633333333333334	0.09207484877955424	3.0	to_L2
+Gévy	Français France	L1	0.79	0.0	1.0	to_L1
+Gévy	Français France	L1	0.7266666666666666	0.016666666666666684	3.0	to_L2
+Agnès E.	France, French	L1	0.7266666666666666	0.021858128414340025	3.0	to_L1
+Agnès E.	France, French	L1	0.7114814814814816	0.016783383653696058	27.0	to_L2
+Francois114	French - France	L1	0.7533333333333333	0.016666666666666684	3.0	to_L1
+Francois114	French - France	L1	0.7154545454545455	0.02360137270135849	11.0	to_L2
+xmarabout	French - Belgium	L1	0.46	0.0	1.0	to_L1
+xmarabout	French - Belgium	L1	0.6446666666666668	0.017751369274259125	15.0	to_L2
+luklamainfroide	French	L1	0.675	0.014999999999999958	2.0	to_L1
+luklamainfroide	French	L1	0.6733333333333332	0.05238744548500572	3.0	to_L2
+proyoyo	French - Cantonese	L1	0.63	0.0	1.0	to_L1
+proyoyo	French - Cantonese	L1	0.7133333333333334	0.05547772325697748	3.0	to_L2
+MarcusK	French	L1	0.71	0.0	1.0	to_L1
+MarcusK	French	L1	0.48	0.0	1.0	to_L2
+JeanDeSponde	France, Français	L1	0.54	0.0	1.0	to_L1
+JeanDeSponde	France, Français	L1	0.6712499999999999	0.04962133397757748	8.0	to_L2
+Michelvar	French from France	L1	0.75	0.0	1.0	to_L1
+Michelvar	French from France	L1	0.6823076923076924	0.01415635429282219	26.0	to_L2
+Grop	français	L1	0.62	0.0	1.0	to_L1
+Grop	français	L1	0.7075	0.036142080737002404	4.0	to_L2
+Me-K	french	L1	0.795	0.0050000000000000044	2.0	to_L1
+Me-K	french	L1	0.738	0.019203174340767327	15.0	to_L2
+xav	France	L1	0.77	0.0	1.0	to_L1
+xav	France	L1	0.7625	0.02780137886268713	4.0	to_L2
+StefKE	French - Belgium	L1	0.76	0.0	1.0	to_L1
+StefKE	French - Belgium	L1	0.6766666666666666	0.048074017006186534	3.0	to_L2
+Cintia&Martine	Français	L1	0.77	0.0	1.0	to_L1
+Cintia&Martine	Français	L1	0.7749999999999999	0.00957427107756339	4.0	to_L2
+Grégory80	French	L1	0.68	0.0	1.0	to_L1
+Grégory80	French	L1	0.685	0.014999999999999958	2.0	to_L2
+jann	English - USA	L2	0.745	0.025000000000000022	2.0	to_L1
+jann	English - USA	L2	0.6846153846153846	0.02052563702173282	13.0	to_L2
+lectrice	Russian/Moscow	L2	0.76	0.0	1.0	to_L1
+lectrice	Russian/Moscow	L2	0.7	0.0	1.0	to_L2
+Kaitchou23	French - France	L1	0.78	0.0	1.0	to_L1
+Kaitchou23	French - France	L1	0.7050000000000001	0.054999999999999986	2.0	to_L2
+nopal	french of FRANCE	L1	0.73	0.0	1.0	to_L1
+nopal	french of FRANCE	L1	0.7583333333333334	0.014240006242195883	6.0	to_L2
+Jeanne75	French - France	L1	0.7	0.0	1.0	to_L1
+Jeanne75	French - France	L1	0.728	0.025681813712344296	10.0	to_L2
+agnelo	French	L1	0.75	0.0	1.0	to_L1
+agnelo	French	L1	0.7125	0.024694562732946467	8.0	to_L2
+lamy08	French	L1	0.6799999999999999	0.08000000000000002	2.0	to_L1
+lamy08	French	L1	0.712	0.05063595560468865	5.0	to_L2
+Lusios	french	L1	0.76	0.0	1.0	to_L1
+Lusios	french	L1	0.7366666666666667	0.017638342073763955	3.0	to_L2
+PhilFrEn	français - France	L1	0.64	0.0	1.0	to_L1
+PhilFrEn	français - France	L1	0.754	0.023790754506740657	5.0	to_L2
+Zampaglione	Français	L1	0.67	0.0	1.0	to_L1
+Zampaglione	Français	L1	0.6716666666666667	0.04222295321004653	6.0	to_L2
+benjbenj	french - France	L1	0.6950000000000001	0.014999999999999958	2.0	to_L1
+benjbenj	french - France	L1	0.635	0.0050000000000000044	2.0	to_L2
+skop	français — France	L1	0.75	0.0	1.0	to_L1
+skop	français — France	L1	0.7050000000000001	0.06499999999999999	2.0	to_L2
+Destilleuls	french	L1	0.69	0.0	1.0	to_L1
+Destilleuls	french	L1	0.76	0.0	1.0	to_L2
+enoo	French - France	L1	0.75	0.0	1.0	to_L1
+enoo	French - France	L1	0.665	0.024999999999999963	2.0	to_L2
+Rushes	French - France	L1	0.78	0.0	1.0	to_L1
+Rushes	French - France	L1	0.77	0.0	1.0	to_L2
+Wozzeck	French	L1	0.7050000000000001	0.054999999999999986	2.0	to_L1
+Wozzeck	French	L1	0.62	0.0	1.0	to_L2
+boukli	French	L1	0.86	0.0	1.0	to_L1
+boukli	French	L1	0.78	0.0	1.0	to_L2

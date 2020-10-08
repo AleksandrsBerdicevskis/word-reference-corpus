@@ -1,0 +1,115 @@
+speaker	lang	ltype	ave_ttr	se	nmessages	to_whom
+Paulfromitaly	Italian	L1	0.665	0.07729812416870152	4.0	to_L1
+Paulfromitaly	Italian	L1	0.665	0.15499999999999994	2.0	to_L2
+Angel.Aura	Italian	L1	0.75	0.0	1.0	to_L1
+Angel.Aura	Italian	L1	0.785	0.015000000000000012	2.0	to_L2
+francisgranada	Hungarian	L2	0.7866666666666666	0.027162065049951147	6.0	to_L1
+francisgranada	Hungarian	L2	0.7233333333333333	0.024037008503093284	3.0	to_L2
+Passante	italian	L1	0.74	0.10999999999999997	2.0	to_L1
+Passante	italian	L1	0.755	0.04500000000000005	2.0	to_L2
+bearded	Italian	L1	0.7406666666666667	0.0213912903207661	15.0	to_L1
+bearded	Italian	L1	0.7491666666666666	0.008118610456771057	24.0	to_L2
+TheCrociato91	Italian - Northern Italy	L1	0.765	0.035000000000000024	2.0	to_L1
+TheCrociato91	Italian - Northern Italy	L1	0.75	0.06000000000000002	3.0	to_L2
+Necsus	Italian (Italy)	L1	0.7686206896551725	0.01024002744390751	29.0	to_L1
+Necsus	Italian (Italy)	L1	0.7555172413793103	0.012182784903464264	29.0	to_L2
+giginho	Italiano & Piemontese	L1	0.765	0.015000000000000012	2.0	to_L1
+giginho	Italiano & Piemontese	L1	0.6566666666666666	0.01626174789020063	6.0	to_L2
+ohbice	italiano	L1	0.7625000000000001	0.016007810593582136	4.0	to_L1
+ohbice	italiano	L1	0.7024999999999999	0.02085237225285	8.0	to_L2
+xeneize	Italian	L1	0.78	0.0	1.0	to_L1
+xeneize	Italian	L1	0.7350000000000001	0.06499999999999999	2.0	to_L2
+sabrinita85	Italian	L1	0.7666666666666666	0.04371625682867999	3.0	to_L1
+sabrinita85	Italian	L1	0.7125000000000001	0.03145764348029479	4.0	to_L2
+SunDraw	Veneto (Italia)	L1	0.7785714285714286	0.017103128567683784	7.0	to_L1
+SunDraw	Veneto (Italia)	L1	0.758	0.021540659228538036	5.0	to_L2
+zipp404	Bilingual English|Español	L2	0.72	0.030158312444893354	7.0	to_L1
+zipp404	Bilingual English|Español	L2	0.6849999999999999	0.020374245755607492	14.0	to_L2
+MünchnerFax	Italian, Italy	L1	0.7233333333333333	0.08337332373793858	6.0	to_L1
+MünchnerFax	Italian, Italy	L1	0.776	0.026570660511172836	5.0	to_L2
+stella_maris_74	Italian - Italy	L1	0.7544444444444445	0.021220476949760314	9.0	to_L1
+stella_maris_74	Italian - Italy	L1	0.7975	0.016520189667999157	4.0	to_L2
+vega3131	Italian	L1	0.72	0.0	1.0	to_L1
+vega3131	Italian	L1	0.65	0.0	1.0	to_L2
+annapo	Italian	L1	0.635	0.06499999999999999	2.0	to_L1
+annapo	Italian	L1	0.795	0.015000000000000012	2.0	to_L2
+Giorgino	Italian	L1	0.835	0.024999999999999963	2.0	to_L1
+Giorgino	Italian	L1	0.7	0.0	1.0	to_L2
+moodywop	Italian - Italy	L1	0.765	0.0050000000000000044	2.0	to_L1
+moodywop	Italian - Italy	L1	0.675	0.044999999999999984	2.0	to_L2
+Saoul	Italian	L1	0.7466666666666667	0.016666666666666684	3.0	to_L1
+Saoul	Italian	L1	0.6980000000000001	0.013928388277184112	5.0	to_L2
+dragonseven	italiano	L1	0.7314285714285713	0.01624640200879237	7.0	to_L1
+dragonseven	italiano	L1	0.7345454545454545	0.023754947288115728	11.0	to_L2
+infinite sadness	italiano	L1	0.64	0.0	1.0	to_L1
+infinite sadness	italiano	L1	0.64	0.010000000000000009	2.0	to_L2
+olaszinho	Central Italian	L1	0.84	0.0	1.0	to_L1
+olaszinho	Central Italian	L1	0.75	0.0	1.0	to_L2
+Stiannu	Italy, Italian	L1	0.82	0.0	1.0	to_L1
+Stiannu	Italy, Italian	L1	0.73	0.010000000000000009	2.0	to_L2
+la italianilla	Italia	L1	0.78375	0.02705401343344722	8.0	to_L1
+la italianilla	Italia	L1	0.72	0.010000000000000009	2.0	to_L2
+panzona	Italian	L1	0.73	0.0	1.0	to_L1
+panzona	Italian	L1	0.76	0.04795831523312719	4.0	to_L2
+Anja.Ann	Italian	L1	0.77	0.0	2.0	to_L1
+Anja.Ann	Italian	L1	0.7622222222222224	0.019563129846287792	9.0	to_L2
+Nino83	Italian	L1	0.6375	0.020564937798755106	4.0	to_L1
+Nino83	Italian	L1	0.5750000000000001	0.03972824352187413	6.0	to_L2
+Sempervirens	italiano	L1	0.71	0.01527525231651948	3.0	to_L1
+Sempervirens	italiano	L1	0.76	0.015735915849388864	7.0	to_L2
+Palmiro Premoli	Italiano	L1	0.68	0.0	1.0	to_L1
+Palmiro Premoli	Italiano	L1	0.8	0.0	1.0	to_L2
+facciadipietra	Italian (northern, southern and central background)	L1	0.78	0.0	1.0	to_L1
+facciadipietra	Italian (northern, southern and central background)	L1	0.7966666666666667	0.029627314724385297	3.0	to_L2
+VogaVenessian	Italiano	L1	0.815	0.011902380714238067	4.0	to_L1
+VogaVenessian	Italiano	L1	0.7250000000000001	0.029580398915498084	4.0	to_L2
+Connie Eyeland	Italiano	L1	0.75125	0.014446638264414906	8.0	to_L1
+Connie Eyeland	Italiano	L1	0.73625	0.014968717379922704	16.0	to_L2
+rocamadour	Italian	L1	0.7949999999999999	0.075	2.0	to_L1
+rocamadour	Italian	L1	0.67	0.0	1.0	to_L2
+Hermocrates	Italian & British English (bilingual)	L1	0.7733333333333334	0.017638342073763955	3.0	to_L1
+Hermocrates	Italian & British English (bilingual)	L1	0.75	0.020248456731316603	5.0	to_L2
+saltapicchio	Italia (Roma) - Italiano	L1	0.7400000000000001	0.03605551275463989	3.0	to_L1
+saltapicchio	Italia (Roma) - Italiano	L1	0.6366666666666666	0.11333333333333336	3.0	to_L2
+rainbowizard	Italian - Italy	L1	0.845	0.0050000000000000044	2.0	to_L1
+rainbowizard	Italian - Italy	L1	0.7075	0.025617376914899	4.0	to_L2
+ursu-lab	italian, catalan & spanish	L1	0.7566666666666667	0.013333333333333346	3.0	to_L1
+ursu-lab	italian, catalan & spanish	L1	0.7509090909090909	0.015693342274210972	11.0	to_L2
+daniele712	Italia	L1	0.74	0.040000000000000036	2.0	to_L1
+daniele712	Italia	L1	0.8	0.0	1.0	to_L2
+Kraus	Italian, Italy	L1	0.81	0.0	1.0	to_L1
+Kraus	Italian, Italy	L1	0.78	0.0	1.0	to_L2
+frugnaglio	Italian	L1	0.7	0.019999999999999962	2.0	to_L1
+frugnaglio	Italian	L1	0.8	0.0	1.0	to_L2
+violadaprile	italian	L1	0.7575000000000001	0.020564937798755126	4.0	to_L1
+violadaprile	italian	L1	0.705	0.030956959368344517	6.0	to_L2
+giusyna	italian	L1	0.74	0.030000000000000023	2.0	to_L1
+giusyna	italian	L1	0.72	0.030000000000000023	2.0	to_L2
+Astropolyp	Italian - Tuscany	L1	0.6875	0.05281650625830274	4.0	to_L1
+Astropolyp	Italian - Tuscany	L1	0.83	0.0	1.0	to_L2
+dôghen	italiano	L1	0.8049999999999999	0.024999999999999963	2.0	to_L1
+dôghen	italiano	L1	0.7625	0.061829739338498495	4.0	to_L2
+quasi.stellar	italiano - italiano	L1	0.64	0.0	1.0	to_L1
+quasi.stellar	italiano - italiano	L1	0.72	0.010000000000000009	2.0	to_L2
+Silvia10975	italiano (Toscana-Italia)	L1	0.72	0.0	1.0	to_L1
+Silvia10975	italiano (Toscana-Italia)	L1	0.8	0.0	1.0	to_L2
+niklavjus	Italiano (Italia)	L1	0.77	0.0	1.0	to_L1
+niklavjus	Italiano (Italia)	L1	0.58	0.0	1.0	to_L2
+Pugnator	Neapoilitan (Naples) / Italian (Italy)	L1	0.71	0.0	1.0	to_L1
+Pugnator	Neapoilitan (Naples) / Italian (Italy)	L1	0.85	0.0	2.0	to_L2
+chipulukusu	Italian	L1	0.7125	0.02868652413009751	4.0	to_L1
+chipulukusu	Italian	L1	0.6980000000000001	0.018275666882497054	5.0	to_L2
+pantarhei	Italiano	L1	0.83	0.0	1.0	to_L1
+pantarhei	Italiano	L1	0.67	0.0	1.0	to_L2
+winnie	italy, italian	L1	0.74	0.0	1.0	to_L1
+winnie	italy, italian	L1	0.78	0.06	2.0	to_L2
+Sprocedato	Italian - Rome	L1	0.77	0.0	1.0	to_L1
+Sprocedato	Italian - Rome	L1	0.79	0.0	1.0	to_L2
+Huginn	Italian	L1	0.9	0.0	1.0	to_L1
+Huginn	Italian	L1	0.72	0.0	1.0	to_L2
+oirelav	italian	L1	0.76	0.0	1.0	to_L1
+oirelav	italian	L1	0.77	0.0	1.0	to_L2
+otherwise	Italiano - Italia	L1	0.86	0.0	1.0	to_L1
+otherwise	Italiano - Italia	L1	0.61	0.05033222956847166	3.0	to_L2
+pollonia	Italiano	L1	0.84	0.0	1.0	to_L1
+pollonia	Italiano	L1	0.69	0.0	1.0	to_L2

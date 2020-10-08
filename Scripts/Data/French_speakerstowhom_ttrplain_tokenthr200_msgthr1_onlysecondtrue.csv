@@ -1,0 +1,35 @@
+speaker	lang	ltype	ave_ttr	se	nmessages	to_whom
+Necsus	Italian (Italy)	L2	0.6950000000000001	0.03499999999999997	2.0	to_L1
+Necsus	Italian (Italy)	L2	0.6375	0.052499999999999984	2.0	to_L2
+SunDraw	Veneto (Italia)	L1	0.7233333333333333	0.026193722742502843	3.0	to_L1
+SunDraw	Veneto (Italia)	L1	0.63	0.0	1.0	to_L2
+zipp404	Bilingual English|Español	L2	0.64	0.020000000000000018	2.0	to_L1
+zipp404	Bilingual English|Español	L2	0.5766666666666667	0.030867098629086893	3.0	to_L2
+MünchnerFax	Italian, Italy	L1	0.69	0.0	1.0	to_L1
+MünchnerFax	Italian, Italy	L1	0.69	0.0	1.0	to_L2
+dragonseven	italiano	L1	0.6216666666666667	0.026193722742502878	3.0	to_L1
+dragonseven	italiano	L1	0.705	0.0	1.0	to_L2
+Connie Eyeland	Italiano	L1	0.68	0.0	1.0	to_L1
+Connie Eyeland	Italiano	L1	0.6154545454545454	0.021757491347856858	11.0	to_L2
+Hermocrates	Italian & British English (bilingual)	L1	0.68	0.0	1.0	to_L1
+Hermocrates	Italian & British English (bilingual)	L1	0.6616666666666667	0.01763834207376392	3.0	to_L2
+itka	français	L1	0.635	0.0	1.0	to_L1
+itka	français	L1	0.655	0.0	1.0	to_L2
+violadaprile	italian	L1	0.665	0.0	1.0	to_L1
+violadaprile	italian	L1	0.6399999999999999	0.06	2.0	to_L2
+SergueiL	Français	L1	0.595	0.0	1.0	to_L1
+SergueiL	Français	L1	0.6174999999999999	0.027500000000000024	2.0	to_L2
+Lacuzon	French - France	L1	0.505	0.0	1.0	to_L1
+Lacuzon	French - France	L1	0.4775	0.007500000000000006	2.0	to_L2
+tilt	French French	L1	0.65	0.025000000000000022	2.0	to_L1
+tilt	French French	L1	0.52	0.025000000000000022	2.0	to_L2
+plantin	français	L1	0.725	0.0	1.0	to_L1
+plantin	français	L1	0.6777272727272726	0.012123673992415835	11.0	to_L2
+Gwynplaine	French	L1	0.525	0.0	1.0	to_L1
+Gwynplaine	French	L1	0.645	0.0	1.0	to_L2
+quinoa	french	L1	0.54	0.0	1.0	to_L1
+quinoa	french	L1	0.62	0.07499999999999996	2.0	to_L2
+jann	English - USA	L2	0.62	0.0	1.0	to_L1
+jann	English - USA	L2	0.4575	0.012499999999999982	2.0	to_L2
+Zampaglione	Français	L1	0.495	0.0	1.0	to_L1
+Zampaglione	Français	L1	0.565	0.0	1.0	to_L2

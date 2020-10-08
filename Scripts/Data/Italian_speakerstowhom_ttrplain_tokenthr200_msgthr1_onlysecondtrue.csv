@@ -1,0 +1,17 @@
+speaker	lang	ltype	ave_ttr	se	nmessages	to_whom
+Necsus	Italian (Italy)	L1	0.6950000000000001	0.03499999999999997	2.0	to_L1
+Necsus	Italian (Italy)	L1	0.6375	0.052499999999999984	2.0	to_L2
+SunDraw	Veneto (Italia)	L1	0.7233333333333333	0.026193722742502843	3.0	to_L1
+SunDraw	Veneto (Italia)	L1	0.63	0.0	1.0	to_L2
+zipp404	Bilingual English|Español	L2	0.64	0.020000000000000018	2.0	to_L1
+zipp404	Bilingual English|Español	L2	0.5766666666666667	0.030867098629086893	3.0	to_L2
+MünchnerFax	Italian, Italy	L1	0.69	0.0	1.0	to_L1
+MünchnerFax	Italian, Italy	L1	0.69	0.0	1.0	to_L2
+dragonseven	italiano	L1	0.6216666666666667	0.026193722742502878	3.0	to_L1
+dragonseven	italiano	L1	0.705	0.0	1.0	to_L2
+Connie Eyeland	Italiano	L1	0.68	0.0	1.0	to_L1
+Connie Eyeland	Italiano	L1	0.6154545454545454	0.021757491347856858	11.0	to_L2
+Hermocrates	Italian & British English (bilingual)	L1	0.68	0.0	1.0	to_L1
+Hermocrates	Italian & British English (bilingual)	L1	0.6616666666666667	0.01763834207376392	3.0	to_L2
+violadaprile	italian	L1	0.665	0.0	1.0	to_L1
+violadaprile	italian	L1	0.6399999999999999	0.06	2.0	to_L2
