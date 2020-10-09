@@ -7,7 +7,7 @@ OUTPATH = ARGV[1]
 
 #langs = ["English"]
 langs = ["Italian","French","Spanish","English"]
-@threshold = 100 #n first tokens upon which the TTR will be calculated
+@threshold = 200 #n first tokens upon which the TTR will be calculated
 @type = "plain" #plain ttr (as in the article) or "sliding_window" (=moving-average TTR)
 @only_second = true #take just the second message (as in the article) or the whole thread
 #threshold_msgs = 10

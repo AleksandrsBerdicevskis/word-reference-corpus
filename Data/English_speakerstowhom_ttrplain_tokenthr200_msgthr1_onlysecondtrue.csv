@@ -1,0 +1,97 @@
+speaker	lang	ltype	ave_ttr	se	nmessages	to_whom
+cuchuflete	EEUU-inglés	L2	0.6	0.0050000000000000044	2.0	to_L1
+cuchuflete	EEUU-inglés	L2	0.5936363636363636	0.024699014602085838	11.0	to_L2
+timpeac	English (England)	L1	0.615	0.0	1.0	to_L1
+timpeac	English (England)	L1	0.65	0.0	1.0	to_L2
+panjandrum	English-Ireland (top end)	L1	0.526	0.051244511901275824	5.0	to_L1
+panjandrum	English-Ireland (top end)	L1	0.5326785714285716	0.017847980453642942	28.0	to_L2
+owlman5	English-US	L1	0.58375	0.03986304679775494	4.0	to_L1
+owlman5	English-US	L1	0.5569166666666666	0.008358232575675147	60.0	to_L2
+JulianStuart	English (UK then US)	L1	0.5725	0.0025000000000000022	2.0	to_L1
+JulianStuart	English (UK then US)	L1	0.54	0.04645786621588786	3.0	to_L2
+PaulQ	English - England	L1	0.5249999999999999	0.044999999999999984	2.0	to_L1
+PaulQ	English - England	L1	0.5196644295302014	0.006877412580584238	149.0	to_L2
+Egmont	English - U.S.	L1	0.6125	0.007500000000000006	2.0	to_L1
+Egmont	English - U.S.	L1	0.5655555555555557	0.008808396236234544	27.0	to_L2
+dojibear	English - Northeast US	L1	0.58	0.0	1.0	to_L1
+dojibear	English - Northeast US	L1	0.542156862745098	0.008280919364940274	51.0	to_L2
+Truffula	English - USA	L1	0.585	0.015000000000000012	2.0	to_L1
+Truffula	English - USA	L1	0.5883333333333333	0.016616591440819353	15.0	to_L2
+Loob	English UK	L1	0.7	0.0	1.0	to_L1
+Loob	English UK	L1	0.524	0.055641710972974226	5.0	to_L2
+Edinburgher	German/English bilingual	L1	0.535	0.0	1.0	to_L1
+Edinburgher	German/English bilingual	L1	0.5399999999999999	0.02668843808229937	11.0	to_L2
+ewie	English English	L1	0.645	0.0	1.0	to_L1
+ewie	English English	L1	0.6	0.03233934651988709	4.0	to_L2
+entangledbank	English - South-East England	L1	0.5493333333333333	0.014399625215581354	15.0	to_L1
+entangledbank	English - South-East England	L1	0.5475847457627121	0.005613761343650628	118.0	to_L2
+boozer	Bulgarian	L2	0.5125	0.06749999999999998	2.0	to_L1
+boozer	Bulgarian	L2	0.5820000000000001	0.021943108257491694	5.0	to_L2
+Glenfarclas	English (American)	L1	0.565	0.0	1.0	to_L1
+Glenfarclas	English (American)	L1	0.60375	0.025197139387901423	4.0	to_L2
+Thomas Tompion	English - England	L1	0.49250000000000005	0.06700435309241731	4.0	to_L1
+Thomas Tompion	English - England	L1	0.555	0.015587693558579809	36.0	to_L2
+Forero	USA English	L1	0.435	0.025000000000000022	2.0	to_L1
+Forero	USA English	L1	0.485	0.027477263328068165	5.0	to_L2
+MattiasNYC	Swedish	L2	0.52	0.0	1.0	to_L1
+MattiasNYC	Swedish	L2	0.5767857142857143	0.015703355339442508	14.0	to_L2
+Cagey	English - US	L1	0.5575	0.015923926292577103	8.0	to_L1
+Cagey	English - US	L1	0.5703030303030305	0.007823727275629931	66.0	to_L2
+Delvo	American English	L1	0.5175	0.06749999999999998	2.0	to_L1
+Delvo	American English	L1	0.535	0.03999999999999998	3.0	to_L2
+SevenDays	Spanish	L2	0.535	0.0	1.0	to_L1
+SevenDays	Spanish	L2	0.55375	0.028604705323891495	4.0	to_L2
+Copyright	American English	L1	0.5662499999999999	0.03442231592053814	4.0	to_L1
+Copyright	American English	L1	0.5828688524590164	0.010758437415990774	61.0	to_L2
+Alxmrphi	UK English	L1	0.576	0.031913946794465894	5.0	to_L1
+Alxmrphi	UK English	L1	0.5614285714285714	0.023996881883612587	7.0	to_L2
+Hermione Golightly	British English	L1	0.715	0.0	1.0	to_L1
+Hermione Golightly	British English	L1	0.6298076923076923	0.012528370172197089	26.0	to_L2
+Dimcl	Canadian English	L1	0.635	0.0	1.0	to_L1
+Dimcl	Canadian English	L1	0.52625	0.0258501289487435	4.0	to_L2
+LV4-26	France French	L2	0.64	0.0	1.0	to_L1
+LV4-26	France French	L2	0.63	0.0	1.0	to_L2
+MissFit	English, U.S.	L1	0.59	0.0	1.0	to_L1
+MissFit	English, U.S.	L1	0.6	0.0	1.0	to_L2
+brian	AmE (New Orleans)	L2	0.51	0.0	1.0	to_L1
+brian	AmE (New Orleans)	L2	0.5475	0.018002975944469365	8.0	to_L2
+wandle	English - British	L1	0.53	0.0	1.0	to_L1
+wandle	English - British	L1	0.5175	0.01500462891540104	10.0	to_L2
+JamesM	English, USA	L1	0.605	0.044999999999999984	2.0	to_L1
+JamesM	English, USA	L1	0.5590909090909091	0.016444305727811567	22.0	to_L2
+James Brandon	English + French - UK	L1	0.5275	0.06749999999999998	2.0	to_L1
+James Brandon	English + French - UK	L1	0.465	0.0	1.0	to_L2
+EStjarn	Spanish	L2	0.6171428571428572	0.013621461657512204	7.0	to_L1
+EStjarn	Spanish	L2	0.6027586206896551	0.012326595778188386	29.0	to_L2
+Fabulist	American English	L1	0.53	0.0	1.0	to_L1
+Fabulist	American English	L1	0.5619444444444446	0.009736217750900791	18.0	to_L2
+lucas-sp	English - Californian	L1	0.5600000000000002	0.03142451272494134	5.0	to_L1
+lucas-sp	English - Californian	L1	0.5676470588235293	0.013110935370810803	17.0	to_L2
+Matching Mole	England, English	L1	0.56875	0.04048533685175412	4.0	to_L1
+Matching Mole	England, English	L1	0.5339583333333333	0.010721183008260719	24.0	to_L2
+cycloneviv	English - Australia	L1	0.71	0.0	1.0	to_L1
+cycloneviv	English - Australia	L1	0.5416666666666666	0.0428498671072748	3.0	to_L2
+MilkyBarKid	British English	L1	0.5625	0.1125	2.0	to_L1
+MilkyBarKid	British English	L1	0.5392857142857143	0.015080891253659698	14.0	to_L2
+Cypherpunk	US, English	L1	0.66	0.0	1.0	to_L1
+Cypherpunk	US, English	L1	0.5599999999999999	0.03403429642777022	3.0	to_L2
+AngelEyes	English - United States	L1	0.5974999999999999	0.007500000000000006	2.0	to_L1
+AngelEyes	English - United States	L1	0.63	0.0	1.0	to_L2
+Dale Texas	English USA	L1	0.625	0.0	1.0	to_L1
+Dale Texas	English USA	L1	0.6212500000000001	0.0121406685702779	4.0	to_L2
+mjscott	American English	L1	0.67	0.0	1.0	to_L1
+mjscott	American English	L1	0.51	0.035000000000000024	2.0	to_L2
+sandpiperlily	English -- USA	L1	0.56	0.0	1.0	to_L1
+sandpiperlily	English -- USA	L1	0.525	0.030482235263619806	4.0	to_L2
+Æsop	English--American (upstate NY)	L1	0.47	0.0	1.0	to_L1
+Æsop	English--American (upstate NY)	L1	0.5716666666666667	0.020480342879074173	3.0	to_L2
+Waylink	English (British)	L1	0.6074999999999999	0.017500000000000012	2.0	to_L1
+Waylink	English (British)	L1	0.5291666666666667	0.03047995698451325	6.0	to_L2
+kitenok	English - US	L1	0.535	0.0	1.0	to_L1
+kitenok	English - US	L1	0.53	0.0	1.0	to_L2
+Prairiefire	US (Midwest) - English	L1	0.625	0.0	1.0	to_L1
+Prairiefire	US (Midwest) - English	L1	0.615	0.0	1.0	to_L2
+watercanyon	USA/English	L1	0.485	0.0	1.0	to_L1
+watercanyon	USA/English	L1	0.585	0.0	1.0	to_L2
+Jim2996	American English	L1	0.545	0.0	1.0	to_L1
+Jim2996	American English	L1	0.575	0.054999999999999986	2.0	to_L2

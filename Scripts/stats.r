@@ -6,7 +6,7 @@ library(ggplot2)
 library(gridExtra)
 
 langs <- c("Italian", "French","Spanish", "English")
-threshold <- 100
+threshold <- 200
 for (lang in langs){
     print(lang)
     dataset <- read.csv(paste(lang, "_messages_ttrplain_tokenthr", threshold, "_msgthr1.csv", sep = ""),header=TRUE,sep="\t",dec=".",quote="")

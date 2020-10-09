@@ -1,13 +1,16 @@
-#Downloading the forum data. Sometimes the download crashes for unknown reasons and has to be restarted manually from the page where it stopped. This can be done adjusting the "pagelinks" hash, see the commented lines 125-130. Quotes and http links are removed.
+#Downloading the forum data. Sometimes the download crashes for unknown reasons and has to be restarted manually from the page where it stopped. This can be done adjusting the "pagelinks" hash, see the commented lines 135-139. Quotes and http links are removed.
 
 require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 PREFIX = "https://forum.wordreference.com/"
 #NOWAY = {"Spanish"=>["https://forum.wordreference.com/threads/poto.450197/"], "French" =>["https://forum.wordreference.com/threads/prenoms-de-fleurs.498968/"],"English"=>[]}
-NOWAY = {"Spanish"=>["450197","286089"], "French" =>["498968","186360"],"English"=>[]}
+#NOWAY = {"Spanish"=>["450197","286089"], "French" =>["498968","186360"],"English"=>[]}
+NOWAY = {"Italian"=>[], "French" =>["498968","186360"], "Spanish"=>["450197","286089"],"English"=>[]}
 
-TNOWAY = {"Spanish"=>["277923","273722","278631","268631","278442","277829","287252","278053","270421"], "French" =>["504682","505639","505175","452634","506005","505338","497052","504888","505198","497820","505624","505505","505184","504865","504040","501178","504658","504377","503451","504767","503052","501951","502829","500496","501307","501340","499959","501397","493448","499226","498065","499071"],"English"=>[]} #This is needed solely since I am restarting French from page720
+TNOWAY = {"Italian"=>[], "French" =>[], "Spanish" => [], "English"=>[]}
+
+#TNOWAY = {"Spanish"=>["277923","273722","278631","268631","278442","277829","287252","278053","270421"], "French" =>["504682","505639","505175","452634","506005","505338","497052","504888","505198","497820","505624","505505","505184","504865","504040","501178","504658","504377","503451","504767","503052","501951","502829","500496","501307","501340","499959","501397","493448","499226","498065","499071"],"English"=>[]} #This is needed solely since I am restarting French from page720
 @langhash = {}
 
 def getthreadindex(href)
@@ -33,7 +36,9 @@ def processthreadpage(page,file,filelang)
   #usertexts = page.css('h3[class="userText"] a').to_a #Could be used to sanity check usernames and native languages, but the latter requires logging in, the former does not seem necessary
   nativelangs = page.css('dd[title="Native language"]').to_a 
   liindex = 0
-  lis.each do |li| #process one post (message)
+  topic = 0
+  topicstarter = "topicstarter"
+  lis.each do |li| #process one post (message)	
     if li["class"].to_s[0..7]==("message ")
       nickname = li["data-author"] 
 	  #STDERR.puts nickname
@@ -86,7 +91,14 @@ def processthreadpage(page,file,filelang)
 	  end
 	  messagetext = messagewords.join(" ")
 	  
-	  file.puts "#{id}\t#{nickname}\t#{@langhash[nickname]}\t#{messagetext}"
+	  
+	  
+	  
+	  file.puts "#{id}\t#{nickname}\t#{@langhash[nickname]}\t#{messagetext}\t#{topic}\t#{topicstarter}\t#{@langhash[topicstarter].to_s}"
+	  if topic == 0 and topicstarter == "topicstarter"
+	    topic = id
+		topicstarter = nickname
+	  end
   	  liindex += 1
     end
   end
@@ -120,21 +132,17 @@ end
 #remaining issues: strikethroughs, foreign words, special symbols
 #separate script: sort languages into native/non-native, count speakers of every type for every subcorpus
 
-
 pagelinks = {"forums/solo-italiano.51/"=>"Italian", "forums/francais-seulement.46/"=>"French", "forums/solo-espanol.45/"=>"Spanish", "forums/english-only.6/"=>"English"}
-#pagelinks = {"forums/solo-italiano.51/"=>"Italian"}
-#pagelinks = {"forums/francais-seulement.46/"=>"French","forums/solo-espanol.45/"=>"Spanish","forums/english-only.6/"=>"English"}
 #pagelinks = {"forums/francais-seulement.46/page-720"=>"French","forums/solo-espanol.45/"=>"Spanish","forums/english-only.6/"=>"English"} #for restaring French
-#pagelinks = {"forums/solo-espanol.45/page-1328"=>"Spanish","forums/english-only.6/"=>"English"} #for restaring Spanish where it broke
 #pagelinks = {"forums/francais-seulement.46/page-787"=>"French"}
+#pagelinks = {"forums/solo-espanol.45/page-1328"=>"Spanish","forums/english-only.6/"=>"English"} #for restaring Spanish where it broke
 #pagelinks = {"forums/english-only.6/page-9232"=>"English"}
 
- 
-#why 205 for Italian?
 pagelinks.keys.each do |pagelink|
-  file = File.new("#{pagelinks[pagelink]}.csv","w:utf-8") #open file for the given language
-  filelang = File.new("#{pagelinks[pagelink]}_langs.txt","w:utf-8")
-  file.puts "message_id\tnickname\tnative_language\tmessage"
+  file = File.new("#{pagelinks[pagelink]}2019.csv","w:utf-8") #open file for the given language
+  #filelang = File.new("#{pagelinks[pagelink]}2019_langs.txt","w:utf-8")
+  filelang = ""
+  file.puts "message_id\tnickname\tnative_language\tmessage\ttopic\ttopicstarter\tts_lang"
   nextlink = [{"href"=>pagelink}]
   begin #loop commented out ## to for testing purposes
     STDERR.puts nextlink[0]["href"] #outputs page
@@ -144,10 +152,13 @@ pagelinks.keys.each do |pagelink|
   end until nextlink.empty?
   
   file.close
-  filelang.close
+  #filelang.close
 end
 
 #ff = File.new("languages.txt","w:utf-8")
 #@langhash.values.uniq.each do |lang|
 #  ff.puts lang
 #end
+
+#\tresponds_to\taddressee\taddr_type
+#\t#{}\t#{}\t#{}

@@ -5,8 +5,8 @@ STDERR.puts "Usage: ruby clean_symbols.rb PATH-TO-CORPORA"
 PATH = ARGV[0]
 
 #process source files
-langs = ["English"]
-#langs = ["Italian","French","Spanish","English"]
+#langs = ["English"]
+langs = ["Italian","French","Spanish","English"]
 
 symb = File.open("accepted_symbols.txt","r:utf-8")
 symbolhash = {}
