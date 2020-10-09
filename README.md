@@ -9,17 +9,17 @@ The WordReference corpus itself may either be downloaded from LINK_COMING_SOON (
 ## Scripts
 Run all scripts as "ruby script.rb [PATH_to_INPUT] [PATH_TO_OUTPUT], see the first lines of the individual scripts for more info.
 
-download.rb -- you may use this script to scrape the whole corpus from https://forum.wordreference.com/. Note that this may take several days, and that the download will sometimes crash for unknown reasons, you will have to restart it from where it stopped.
+- download.rb -- you may use this script to scrape the whole corpus from https://forum.wordreference.com/. Note that this may take several days, and that the download will sometimes crash for unknown reasons, you will have to restart it from where it stopped.
 
-clean_symbols.rb -- this script removes (presumable) noise by filtering out all symbols that are not in the manually compiled accepted_symbols.txt. It also replaces all punctuation marks by " . " (to make it easier to count words). It uses files like "Italian.csv" as input and outputs "Italian_clean.csv".
+- clean_symbols.rb -- this script removes (presumable) noise by filtering out all symbols that are not in the manually compiled accepted_symbols.txt. It also replaces all punctuation marks by " . " (to make it easier to count words). It uses files like "Italian.csv" as input and outputs "Italian_clean.csv".
 
-process_corpus.rb -- this script adds info about the status (L1 or L2) of every speaker and the topicstarter. It uses files like "Italian_clean.csv" as input and outputs "Italian_clean2.csv". These "clean2" files are the version of the corpus that is used in the paper, and they contain two more columns as compared to the "raw" corpora: status (L1 or L2) of the speaker (column "ltype") and status of the topicstarter ("ts_type"). The script also outputs (as a separate file) a list of all native languages (exactly as provided by users) and whether they are labelled as L1 and L2 for a given language forum, you may check whether you are satisfied with the labelling.
+- process_corpus.rb -- this script adds info about the status (L1 or L2) of every speaker and the topicstarter. It uses files like "Italian_clean.csv" as input and outputs "Italian_clean2.csv". These "clean2" files are the version of the corpus that is used in the paper, and they contain two more columns as compared to the "raw" corpora: status (L1 or L2) of the speaker (column "ltype") and status of the topicstarter ("ts_type"). The script also outputs (as a separate file) a list of all native languages (exactly as provided by users) and whether they are labelled as L1 and L2 for a given language forum, you may check whether you are satisfied with the labelling.
 
-data_analysis.rb -- this script prepares data for the statistical analysis reported in the paper. Thresholds and other parameters can be changed within the scripts. Rename "Italian_clean2.csv" (etc.) into "Italian.csv" and provide the path to these files. The files in the Data folder are the output of this script.
+- data_analysis.rb -- this script prepares data for the statistical analysis reported in the paper. Thresholds and other parameters can be changed within the scripts. Rename "Italian_clean2.csv" (etc.) into "Italian.csv" and provide the path to these files. The files in the Data folder are the output of this script.
 
-corpus_size.rb and count_topicstarters.rb are the auxiliary scripts whose functions are obvious from their names. They yield the numbers reported in the paper (for the "clean2" versions).
+- corpus_size.rb and count_topicstarters.rb are the auxiliary scripts whose functions are obvious from their names. They yield the numbers reported in the paper (for the "clean2" versions).
 
-stats.r is an R script which performs the statistical analyses described in the paper and creates the figures. Set the threshold to the desired value in the script. Make sure the necessary packages (lmerTest etc) are installed, change the R directory to the Data folder so that the script can see its input.
+- stats.r is an R script which performs the statistical analyses described in the paper and creates the figures. Set the threshold to the desired value in the script. Make sure the necessary packages (lmerTest etc) are installed, change the R directory to the Data folder so that the script can see its input.
 
 ## Data
 This folder contains the output of data_analysis.rb (which is also the input for stats.r). The names of the files are to be read as follows:
