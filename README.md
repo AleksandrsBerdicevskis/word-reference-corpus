@@ -1,7 +1,8 @@
 # word-reference-corpus
 This repository contains the scripts and the data necessary to reproduce the results reported in 
 
-Berdicevskis, Aleksandrs. Forthcoming 2020. Foreigner-directed speech is simpler than native-directed: Evidence from social media. In Proceedings of the Second Workshop on NLP and Computational Social Science @EMNLP.
+Berdicevskis, Aleksandrs. 2020. Foreigner-directed speech is simpler than native-directed: Evidence from social media. In Proceedings of the Second Workshop on NLP and Computational Social Science @EMNLP, 163–172. 
+(Please cite the paper if you are using the corpus.)
 
 ## Corpus
 The WordReference corpus itself may either be downloaded from https://spraakbanken.gu.se/resurser/wordreference (the version scraped from the web in March 2019, the one analyzed in the paper) or directly scraped from the web (see download.rb below). In either case, you should end up with four tab-separated files (one per language), each containing seven tab-separated columns: message id, poster's nickname, poster' native language(s), the text of the message (post) itself, the id of the topic in response to which the message has been posted (0 if this message is the topic, i.e. the first in the thread), topicstarter's nickname ("topicstarter" if the poster is the topicstarter), native language of the topicstarter. These are the "raw" data with as little processing as possible (but http links and explicit quotes of other users' posts are removed during the download). If you want to create the version used in the paper (which means, inter alia, adding info about who is L1 and who is L2), you should use other scripts provided here.
