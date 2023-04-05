@@ -1,7 +1,7 @@
 # word-reference-corpus
 This repository contains the scripts and the data necessary to reproduce the results reported in 
 
-Berdicevskis, Aleksandrs. 2020. Foreigner-directed speech is simpler than native-directed: Evidence from social media. In Proceedings of the Second Workshop on NLP and Computational Social Science @EMNLP, 163–172. 
+Berdicevskis, Aleksandrs. 2020. [Foreigner-directed speech is simpler than native-directed: Evidence from social media](https://aclanthology.org/2020.nlpcss-1.18/). In Proceedings of the Second Workshop on NLP and Computational Social Science @EMNLP, 163–172. 
 
 (Please cite the paper if you are using the corpus.)
 
